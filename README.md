@@ -43,10 +43,8 @@ But most importantly, a Sustainability Hub is a third home, a place where you fe
 
 ## More sustainable cities, a better life.
 <p align="center">
-  <img alt="Light" src="/img/seedHUBe.png" width="55%">
+  <img alt="Light" src="./img/seedHUBe.png" width="55%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="/img/sdg11.png" width="35%">
+  <img alt="Dark" src="./img/sdg11.png" width="35%">
 </p>
 
-
-![](/img/seedHUBe.png)  |  ![](/img/sdg11.png)
