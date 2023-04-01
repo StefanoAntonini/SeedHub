@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="path/to/css/modest.css">
 ![ima](/img/img0.png)
 # seedHUB
 ## Cultivating sustainable communities
