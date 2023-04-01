@@ -54,5 +54,5 @@ Solarized dark             |  Solarized Ocean
 
 <p float="left">
   <img src="/img/seedHUBe.png" width="400" />
-  <img src="/img/sdg11.png" width="400" /> 
+  <img src="/img/sdg11.png" width="200" /> 
 </p>
