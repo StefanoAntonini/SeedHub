@@ -52,7 +52,8 @@ Solarized dark             |  Solarized Ocean
 ![](/img/seedHUBe.png)  |  ![](/img/seedHUBe.png)
 
 
-<p float="left">
-  <img src="/img/seedHUBe.png" width="400" />
-  <img src="/img/sdg11.png" width="200" /> 
+<p align="center">
+  <img alt="Light" src="/img/seedHUBe.png" width="55%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/img/sdg11.png" width="35%">
 </p>
