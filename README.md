@@ -27,16 +27,15 @@ It is a place where people learn how to become more sustainable and where they c
 
 ### What can you do in a Sustainability Hub?
 
-- You can attend workshops lead by professionals. 
+- You can attend workshops lead by `professionals`. 
 Here's a list of possible themes of these workshops: *"Installing a solar panel"*, *"Creating an energy community"*, *"Giving a second life to your clothes"*
 - You can grow your own food and share it with your community. Every Sustainable Hub has a space reserved for urban farming solutions!
-- You can leave items that you don't use anymore and other people can give them a second life.
+- You can leave items that you don't use anymore and other people can give them a `second life`.
 - You can use its shared spaces, such as libraries, kitchens, and gaming areas.
 - You can receive help from experts that work as a consultants to promote sustainability. With their help growing your own food or sewing your old clothes will be extremely easy!
 - You can directly contribute to the development of your community.
 
 But most importantly, a Sustainability Hub is a third home, a place where you feel comfortable and safe.
-
 
 
 ### Together we can rethink our cities.
