@@ -45,4 +45,4 @@ But most importantly, a Sustainability Hub is a third home, a place where you fe
 
 ![ima](/img/seedHUB.jpg)
 
-![ima](/img/seedHUB.svg)
+![ima](/img/seedHUBe.svg)
