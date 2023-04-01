@@ -1,5 +1,5 @@
-![ima](/img/img0.png)
 ## Cultivating sustainable communities
+![ima0](/img/img0.png)
 
 ### Our Vision
 
