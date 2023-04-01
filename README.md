@@ -46,3 +46,7 @@ But most importantly, a Sustainability Hub is a third home, a place where you fe
 ![ima](/img/seedHUBe.png)
 
 <img src="/img/seedHUBe.png"  width="60%" height="30%">
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](/img/seedHUBe.png)  |  ![](/img/seedHUBe.png)
