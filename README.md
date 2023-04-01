@@ -44,3 +44,5 @@ But most importantly, a Sustainability Hub is a third home, a place where you fe
 ## More sustainable cities, a better life.
 
 ![ima](/img/seedHUB.jpg)
+
+![ima](/img/seedHUB.svg)
