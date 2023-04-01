@@ -53,6 +53,6 @@ Solarized dark             |  Solarized Ocean
 
 
 <p float="left">
-  <img src="/img/seedHUBe.png" width="100" />
-  <img src="/img/seedHUBe.png" width="100" /> 
+  <img src="/img/seedHUBe.png" width="600" />
+  <img src="/img/seedHUBe.png" width="400" /> 
 </p>
