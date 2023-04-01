@@ -1,5 +1,4 @@
 ![ima](/img/img0.png)
-# seedHUB
 ## Cultivating sustainable communities
 
 ### Our Vision
