@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: SeedHub
 logo: /img/seedHUBe.png
-description: Caring in Sharing!
+description: Sharing is Caring!
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
